@@ -1,4 +1,4 @@
-# SamehadakuLE
+# SMHDKLE
 Samehadaku Link Extractor
 
 ## How To Use :
